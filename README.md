@@ -16,8 +16,11 @@
 </br>
 <h1 align="center">Programando em: 💻</h1>
 * VSCode
+
 * Jupyter
+  
 * Kaggle
+  
 * Colab
 </br>
 <p>
@@ -26,8 +29,12 @@
 🔵 Python: Pandas, Numpy, Streamlit, Seaborn, Matplotlib... 
 
 🟢 AWS: S3, Athena, RDS.
+
 🟡 SQL: PostgreSQL, MySQL.
+
 🔴 Excel: Manipulação de dados e gráficos
+
 🟠 Power BI
+
 🟣 Cloud Services: https://render.com
 
