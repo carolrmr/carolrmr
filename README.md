@@ -15,17 +15,16 @@
 </div>
 </br>
 <h1 align="center">Programando em: 💻</h1>
-* VSCode
-
-* Jupyter
-  
-* Kaggle
-  
-* Colab
-</br>
+<p>
+    VSCode
+    Jupyter
+    Kaggle
+    Colab
+</p>
 <p>
   <h1 align="center"> Linguagens| Tecnologias usadas: </h1>
 </p>
+
 🔵 Python: Pandas, Numpy, Streamlit, Seaborn, Matplotlib... 
 
 🟢 AWS: S3, Athena, RDS.
