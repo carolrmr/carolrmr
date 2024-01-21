@@ -8,10 +8,11 @@
 📖 Graduando Ciência de Dados pela Estácio.
 
 <h1 align="center">Se conecte comigo: 📬</h1>
-<div style="text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://www.linkedin.com/in/carolrmr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:carol.rmr16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"></a>
     <a href="https://github.com/carolrmr"><img src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=black"></a>
 </div>
+
 
     
