@@ -2,9 +2,8 @@
     
 🧑‍🎓 Formada em Técnico em Enfermagem.
 
-📖 Profissionalizando Ciêntista de Dados pela EBAC. <br />
-
-  📖 Arvore de decisão, visualização de dados com python, big data, machine learning e afins.
+📖 Profissionalizando Ciêntista de Dados pela EBAC.
+* 📖 Arvore de decisão, visualização de dados com python, big data, machine learning e afins.
   
 📖 Graduando Ciência de Dados pela Estácio.
 
