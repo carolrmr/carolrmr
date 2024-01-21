@@ -24,6 +24,7 @@
   <h1 align="center"> Linguagens| Tecnologias usadas: </h1>
 </p>
 🔵 Python: Pandas, Numpy, Streamlit, Seaborn, Matplotlib... 
+
 🟢 AWS: S3, Athena, RDS.
 🟡 SQL: PostgreSQL, MySQL.
 🔴 Excel: Manipulação de dados e gráficos
