@@ -5,7 +5,7 @@
 📖 Profissionalizando Ciêntista de Dados pela EBAC.
 * 📖 Arvore de decisão, visualização de dados com python, big data, machine learning e afins.
   
-📖 Graduanda Ciência de Dados pela Estácio.
+📖 Graduanda em Ciência de Dados pela Estácio.
 
 <h1 align="center">Se conecte comigo: 📬</h1>
 <div>
