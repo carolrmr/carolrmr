@@ -16,10 +16,10 @@
 </br>
 <h1 align="center">Programando em: 💻</h1>
 <p>
-    * VSCode
-    *Jupyter
-    *Kaggle
-    *Colab
+    # VSCode
+    # Jupyter
+    # Kaggle
+    # Colab
 </p>
 <p>
   <h1 align="center"> Linguagens| Tecnologias usadas: </h1>
