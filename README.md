@@ -13,6 +13,20 @@
     <a href = "mailto:carol.rmr16@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red"></a>
 <a href = "https://github.com/carolrmr"><img align="left" src="https://img.shields.io/badge/GitHub-323232?style=for-the-badge&logo=github&logoColor=black"></a>
 </div>
+</br>
+<h1 align="center">Programando em: 💻</h1>
+* VSCode
+* Jupyter
+* Kaggle
+* Colab
+</br>
+<p>
+  <h1 align="center"> Linguagens| Tecnologias usadas: </h1>
+</p>
+🔵 Python: Pandas, Numpy, Streamlit, Seaborn, Matplotlib... 
+🟢 AWS: S3, Athena, RDS.
+🟡 SQL: PostgreSQL, MySQL.
+🔴 Excel: Manipulação de dados e gráficos
+🟠 Power BI
+🟣 Cloud Services: https://render.com
 
-
-    
